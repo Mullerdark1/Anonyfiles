@@ -21,7 +21,7 @@ php
 laravel
 RESTful API architecture
 Database:
-MySQL / MongoDB (Specify yours)
+MySQL
 Security:
 Environment-based configuration
 Input validation
